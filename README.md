@@ -1,16 +1,41 @@
-### Hi there 👋
+<h2> Hi, I'm AntiWar3</h2>
 
-<!--
-**int3kn/int3kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=int3kn&show_icons=true&theme=radical" width="380">
 
-Here are some ideas to get you started:
+<p><em>量子力学领军人物 <br>
+  熟练使用c++编写hello world <br>
+  对golang的println略有研究<br>
+  超级马里奥一条命通关选手<br>
+  以上只有一条是假的
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+ 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub hahwul](https://img.shields.io/github/followers/antiwar3?label=follow%20github&style=flat-square)](https://github.com/int3kn)
+
+<br>
+
+### 更多关于我...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "windows安全工程师，游戏安全工程师",
+    Pronouns: "He/Him",
+    Code: "c++ and Go and Everythings",
+    BestAndFavoriteSkill: "Game Hacking and SoftWare Hacking :D"
+  }
+  _ = me
+}
+```
+---
+
